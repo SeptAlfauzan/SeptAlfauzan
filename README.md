@@ -1,9 +1,9 @@
 # Hello there 👋
 #### I'am junior web developer
-- currently learning javascript and reactjs
+- currently learning javascript, reactjs, and flutter
 - currently looking for any reactjs job
 - my 2020 goals, create more side project
-- also i love photoghrapy and drawing :D
+- also i love photography and drawing :D
 
 ## Connect with me:
 
