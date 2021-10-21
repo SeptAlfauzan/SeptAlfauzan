@@ -1,7 +1,6 @@
 # Hello there 👋
 #### What currently stuff I do?
-- some gamedev and computer graphic stuff.
-- Some python stuff
+- Some javascript stuff
 
 ## Connect with me:
 
