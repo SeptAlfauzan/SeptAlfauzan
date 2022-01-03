@@ -1,6 +1,7 @@
 # Hello there 👋
 #### What currently stuff I do?
-- Some javascript stuff
+- javascript stuff
+- learning app development especially using flutter
 
 ## Connect with me:
 
