@@ -14,6 +14,9 @@
 [linkedin]: https://www.linkedin.com/in/septa-alfauzan-a11a891b0/
 
 <br/>
+<br/>
+<br/>
+<br/>
 <p align="left">
 <a href="https://github.com/septalfauzan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=septalfauzan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
