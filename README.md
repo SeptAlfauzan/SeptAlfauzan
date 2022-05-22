@@ -1,7 +1,7 @@
 # Hello there 👋
-#### What currently stuff I do?
-- javascript stuff 💻
-- learning app development especially using react native 📱
+#### My current focus
+- Javascript stuff 💻
+- Mobile app development especially using react native and flutter 📱
 
 ## Connect with me:
 
