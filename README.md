@@ -1,7 +1,6 @@
 # Hello there 👋
 #### My current focus
-- Javascript stuff 💻
-- Mobile app development especially using react native📱
+- Mobile app development📱
 
 ## Connect with me:
 
