@@ -1,4 +1,5 @@
-# Hello there 👋
+# Hello there welcome to my github account 👋
+
 #### My current focus
 - Mobile app development📱
 
@@ -22,3 +23,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=septalfauzan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+[][contributing]
