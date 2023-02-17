@@ -24,5 +24,7 @@
 </a>
 </p>
 
-[<img align="left" src="https://github.com/SeptAlfauzan/SeptAlfauzan/blob/master/github-user-contribution.svg
-" />][contributing]
+<br/>
+<p align="left">
+<img align="left" height="180em" src="https://github.com/SeptAlfauzan/SeptAlfauzan/blob/master/github-user-contribution.svg" />
+</p>
