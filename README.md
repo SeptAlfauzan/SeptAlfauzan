@@ -11,6 +11,7 @@ Hi I'm Android and fullstack developer, mainly focus on developing Android App u
 <a href="https://www.hackerrank.com/alfauzansepta">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <a href="https://www.codewars.com/users/SeptAlfauzan">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a>
 <a href="https://www.youtube.com/@septaalfauzan1731">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href="https://huggingface.co/septa">![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow)</a>
 <a href="https://twitter.com/septa_alfauzan">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="mailto:alfauzansepta@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
