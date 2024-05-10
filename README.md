@@ -1,5 +1,5 @@
 # Hello there welcome to my github👋
-Hi I'm Android and fullstack developer, mainly focus on developing Android App using Native Kotlin and Jetpack. Therefore I also have experiences developing frontend web apps using NextJS and ReactJS also few experiences related to backend and app deployment field.
+Hi I'm Android and fullstack developer, mainly focus on developing Android App using Native Kotlin and Jetpack Compose. Therefore I also have experiences developing frontend web apps using NextJS and ReactJS also few experiences related to backend and app deployment field.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=septalfauzan&show_icons=true&include_all_commits=true&count_private=true"/>
